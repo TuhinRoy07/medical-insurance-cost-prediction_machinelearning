@@ -164,7 +164,7 @@ Open the notebook in VS Code or Jupyter, select the `venv` kernel and run all ce
 **Tuhin Roy**
 Final-year BCA student | Data Analytics, SQL and AI/ML
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [TuhinRoy07](https://github.com/your-username)
 
 
 ---
