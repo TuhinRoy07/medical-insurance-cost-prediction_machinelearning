@@ -68,6 +68,12 @@ It covers the complete machine learning workflow, from exploring the data to dep
 | Tuning | `GridSearchCV` on `n_estimators`, `max_depth`, `min_samples_split`, `min_samples_leaf`, `max_features` |
 | Final model | Random Forest + `log1p` target transform (`TransformedTargetRegressor`) |
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="Model_UI_Screenshot.png" alt="InsureIQ app preview" width="900">
+</p>
+
 ## 📊 Results
 
 Cross-validation comparison (lower MAE is better):
