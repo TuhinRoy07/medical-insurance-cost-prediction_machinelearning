@@ -33,11 +33,6 @@ It covers the complete machine learning workflow, from exploring the data to dep
 - 📈 **Charts** for smoking impact and cost by age
 - 🧾 **Insights cards**: BMI category, comparison with dataset average, smoker vs non-smoker cost
 
-## 📸 Screenshots
-
-| Light mode | Dark mode |
-|:---:|:---:|
-| ![Light mode](screenshots/app-light.png) | ![Dark mode](screenshots/app-dark.png) |
 
 ## 📂 Dataset
 
@@ -163,9 +158,6 @@ Open the notebook in VS Code or Jupyter, select the `venv` kernel and run all ce
 - Try more models and larger hyperparameter searches
 - Add prediction history and downloadable reports
 
-## ⚠️ Disclaimer
-
-This project is for **learning and portfolio purposes only**. The predictions are estimates based on a public US dataset and are **not real insurance quotes**.
 
 ## 👤 Author
 
@@ -173,7 +165,7 @@ This project is for **learning and portfolio purposes only**. The predictions ar
 Final-year BCA student | Data Analytics, SQL and AI/ML
 
 - GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+
 
 ---
 
