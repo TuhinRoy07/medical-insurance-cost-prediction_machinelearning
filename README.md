@@ -68,6 +68,8 @@ It covers the complete machine learning workflow, from exploring the data to dep
 | Tuning | `GridSearchCV` on `n_estimators`, `max_depth`, `min_samples_split`, `min_samples_leaf`, `max_features` |
 | Final model | Random Forest + `log1p` target transform (`TransformedTargetRegressor`) |
 
+
+
 ## 📸 Screenshot
 
 <p align="center">
