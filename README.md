@@ -178,6 +178,6 @@ Final-year BCA student | Data Analytics, SQL and AI/ML
 
 <div align="center">
 
-⭐ If you found this project useful, please give it a star!
+⭐ Thank Youuu For Visiting !!! 
 
 </div>
